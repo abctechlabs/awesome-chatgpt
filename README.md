@@ -101,6 +101,7 @@ Contributions most welcome.
 ### Examples
 
 - [ChatGPT-Python-Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - A collection of Python web apps.
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser and formatter, handy for inspecting ChatGPT API responses.
 
 ## Browser extensions
 
